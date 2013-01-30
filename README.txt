@@ -42,6 +42,31 @@ Quick links
 Examples
 ========
 
+|kjVlbuk|_
+
+.. |kjVlbuk| image:: http://i.imgur.com/kjVlbukm.png
+.. _kjVlbuk: http://i.imgur.com/kjVlbuk.png
+
+|pPI3ePX|_
+
+.. |pPI3ePX| image:: http://i.imgur.com/pPI3ePXm.png
+.. _pPI3ePX: http://i.imgur.com/pPI3ePX.png
+
+|Avdq73Y|_
+
+.. |Avdq73Y| image:: http://i.imgur.com/Avdq73Ym.png
+.. _Avdq73Y: http://i.imgur.com/Avdq73Y.png
+
+|du2IWZ6|_
+
+.. |du2IWZ6| image:: http://i.imgur.com/du2IWZ6m.png
+.. _du2IWZ6: http://i.imgur.com/du2IWZ6.png
+
+|uOQVrxB|_
+
+.. |uOQVrxB| image:: http://i.imgur.com/uOQVrxBm.png
+.. _uOQVrxB: http://i.imgur.com/uOQVrxB.png
+
 Message
 -------
 
@@ -230,5 +255,4 @@ This is out of scope for this project since Windows is not supported, but I left
     pip install winpdb
     rem http://pypi.python.org/pypi/pandas
     ipython notebook --pylab=inline
-
 
