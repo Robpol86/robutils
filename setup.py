@@ -23,7 +23,7 @@ setup(
     url='http://code.google.com/p/robutils/',
     license='MIT',
     description='Convenience classes for CLI Python applications.',
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
     install_requires=[
         'psutil >= 0.6.1',
         'paramiko >= 1.9.0',
